@@ -15,5 +15,6 @@
 <p>Также по команде /leaderboard в боте пользователь может посмотреть лидерборд, основанный на рейтинге elo.</p>
 <img src="https://github.com/maxim290905/TelegramChessBot/blob/main/IMG_6449.JPG">
 <p>База данных содержит статистику игроков, рейтинг и захешированный пароль</p>
-<img src="">
+<img src="https://github.com/JKorolev/TelegramChessGame/blob/main/IMG_6458.JPG">
 <p>&nbsp;</p>
+<img src="https://github.com/JKorolev/TelegramChessGame/blob/main/IMG_6459.JPG">
